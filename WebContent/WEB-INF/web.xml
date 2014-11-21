@@ -9,14 +9,4 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
-  <servlet>
-    <description></description>
-    <display-name>pikachu</display-name>
-    <servlet-name>pikachu</servlet-name>
-    <servlet-class>qasite.pikachu</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>pikachu</servlet-name>
-    <url-pattern>/pikachu</url-pattern>
-  </servlet-mapping>
 </web-app>
